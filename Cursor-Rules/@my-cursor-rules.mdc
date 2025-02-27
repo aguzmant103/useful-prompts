@@ -1,0 +1,19 @@
+---
+description: 
+globs: 
+---
+# Cursor Rules
+
+## 1. Code Simplicity & Maintainability
+- Keep the codebase simple and maintainable.
+- Avoid bloated solutions; prioritize readability and efficiency.
+- Minimize introducing new dependencies unless absolutely necessary.
+
+## 2. Authentication
+- Use **Clerk** for authentication.
+
+## 3. Rendering Strategy
+- Prefer **server-side rendering (SSR)** whenever possible.
+
+## 4. Stack Guidelines
+- Use the **Next.js** stack as the primary framework.
