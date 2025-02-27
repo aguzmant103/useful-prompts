@@ -1,0 +1,1 @@
+Now that you have the prompts to generate documents, ask Cursor to create a /doc file in your repo and start generating documents 1 by 1 using these projects. Save them in markdown format .md.
